@@ -1,0 +1,329 @@
+{
+  "profile": [
+    {
+      "id": 1,
+      "username": "taudilya",
+      "password": "Taurb123*",
+      "email": "taurbekovadilnaz@gmail.com"
+    },
+    {
+      "id": 2,
+      "username": "kusainova",
+      "password": "Kusa123*",
+      "email": "kusainovaamina@mail.ru"
+    },
+    {
+      "id": 3,
+      "username": "musinaaru",
+      "password": "Musina123*",
+      "email": "musinaaruzhan@gmail.com"
+    },
+    {
+      "id": 4,
+      "username": "bertysbayev",
+      "password": "Bertys123*",
+      "email": "Bertysbayevsanzhar@mail.ru"
+    },
+    {
+      "id": 5,
+      "username": "onaybekovs",
+      "password": "Onayb123*",
+      "email": "Onaybekovselim@gmail.com"
+    },
+    {
+      "id": 6,
+      "username": "protasovad",
+      "password": "Protasova123*",
+      "email": "Protasovadariya@yandex.ru"
+    },
+    {
+      "id": 7,
+      "username": "zhumazhanovad",
+      "password": "Zhud123*",
+      "email": "Zhumazhanovadilnaz@gmail.com"
+    },
+    {
+      "id": 8,
+      "username": "neptunyou",
+      "password": "Neptun123*",
+      "email": "Neptun@gmail.com"
+    },
+    {
+      "id": 9,
+      "username": "bissemba",
+      "password": "Bissemba123*",
+      "email": "Bissembayevabzal@gmail.com"
+    },
+    {
+      "id": 10,
+      "username": "darkhannn",
+      "password": "Iliyas123*",
+      "email": "Iliyasdarkhan@gmail.com"
+    }
+  ],
+  "Sets": [
+    {
+      "Set": "Good Boy",
+      "Contain": [
+        "Sushi",
+        "Wok",
+        "Pizza",
+        "Porrige"
+      ],
+      "Meals": [
+        {
+          "Person": "1 person",
+          "Price": 5000
+        },
+        {
+          "Person": "2-5 person",
+          "Price": 10000
+        },
+        {
+          "Person": "6-10 person",
+          "Price": 15000
+        }
+      ]
+    },
+    {
+      "Set": "Good Girl",
+      "Contain": [
+        "Sushi",
+        "Pizza",
+        "Ceasar",
+        "Apple Cake"
+      ],
+      "Meals": [
+        {
+          "Person": "1 person",
+          "Price": 5010
+        },
+        {
+          "Person": "2-5 person",
+          "Price": 10010
+        },
+        {
+          "Person": "6-10 person",
+          "Price": 15010
+        }
+      ]
+    },
+    {
+      "Set": "Good uncle",
+      "Contain": [
+        "Soup",
+        "Sandwich",
+        "Coca-Cola"
+      ],
+      "Meals": [
+        {
+          "Person": "1 person",
+          "Price": 5020
+        },
+        {
+          "Person": "2-5 person",
+          "Price": 10020
+        },
+        {
+          "Person": "6-10 person",
+          "Price": 15020
+        }
+      ]
+    },
+    {
+      "Set": "Good grandpa",
+      "Contain": [
+        "Burger",
+        "Pizza",
+        "Sprite",
+        "Fried chicken"
+      ],
+      "Meals": [
+        {
+          "Person": "1 person",
+          "Price": 5030
+        },
+        {
+          "Person": "2-5 person",
+          "Price": 10030
+        },
+        {
+          "Person": "6-10 person",
+          "Price": 15030
+        }
+      ]
+    },
+    {
+      "Set": "Good mom",
+      "Contain": [
+        "Porrige",
+        "Fish",
+        "Vegetables",
+        "Juice"
+      ],
+      "Meals": [
+        {
+          "Person": "1 person",
+          "Price": 5040
+        },
+        {
+          "Person": "2-5 person",
+          "Price": 10040
+        },
+        {
+          "Person": "6-10 person",
+          "Price": 15040
+        }
+      ]
+    },
+    {
+      "Set": "Good papa",
+      "Contain": [
+        "Potato fries",
+        "Coca-Cola",
+        "Bubblegum",
+        "Coctail"
+      ],
+      "Meals": [
+        {
+          "Person": "1 person",
+          "Price": 5050
+        },
+        {
+          "Person": "2-5 person",
+          "Price": 10050
+        },
+        {
+          "Person": "6-10 person",
+          "Price": 15050
+        }
+      ]
+    },
+    {
+      "Set": "Good Boyfriend",
+      "Contain": [
+        "Salad",
+        "Coctail",
+        "Cake",
+        "Potato Fries",
+        "Fried chicken",
+        "Juice"
+      ],
+      "Meals": [
+        {
+          "Person": "1 person",
+          "Price": 5060
+        },
+        {
+          "Person": "2-5 person",
+          "Price": 10060
+        },
+        {
+          "Person": "6-10 person",
+          "Price": 15060
+        }
+      ]
+    }
+  ],
+  "Cake": [
+    {
+      "Name": "Apple cake",
+      "Description": [
+        {
+          "Product": "apple",
+          "price": 1500
+        }
+      ]
+    }
+  ],
+  "Salad": [
+    {
+      "Name": "Ceasar",
+      "Description": [
+        "Cabbage",
+        "Chicken",
+        "Egg",
+        "Souce"
+      ],
+      "Meals": [
+        {
+          "Person": "1 person",
+          "Price": 1500
+        },
+        {
+          "Person": "2 person",
+          "Price": 1600
+        },
+        {
+          "Person": "3 person",
+          "Price": 1700
+        },
+        {
+          "Person": "4 person",
+          "Price": 1800
+        },
+        {
+          "Person": "5 person",
+          "Price": 1900
+        }
+      ]
+    },
+    {
+      "Name": "Omirasu",
+      "Meals": [
+        {
+          "Person": "1 person",
+          "Size": "2500"
+        },
+        {
+          "Person": "2-5 person",
+          "Size": "8000"
+        },
+        {
+          "Person": "6-10 person",
+          "Size": "15000"
+        }
+      ]
+    },
+    {
+      "Name": "Vegetables",
+      "Meals": [
+        {
+          "Type": "potato",
+          "price": "1500"
+        },
+        {
+          "type": "tomato",
+          "price": "1900"
+        },
+        {
+          "type": "carrot",
+          "price": "2500"
+        },
+        {
+          "type": "cabbage",
+          "price": "3500"
+        },
+        {
+          "type": "cucumber",
+          "price": "7500"
+        },
+        {
+          "type": "onion",
+          "price": "15000"
+        }
+      ]
+    }
+  ],
+  "Coctail": [
+    {
+      "Name": "Strawberry",
+      "Meal": [
+        {
+          "Person": "1 person",
+          "Price": 5000
+        }
+      ]
+    }
+  ]
+}
